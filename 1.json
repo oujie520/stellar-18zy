@@ -1,15 +1,15 @@
 [
     {"title":"155资源","api":"https://www.155api.com/api.php/provide/vod/at/xml/","datatype":"xml","search":true},
-    {"title":"字幕网资源站","api":"http://zmcj88.com/api","datatype":"xml","search":true},
-    {"title":"草榴资源","api":"https://www.caoliuzyw.com/api.php/provide/vod/at/xml/","datatype":"xml","search":true},
-    {"title":"博民资源","api":"https://www.bominzy.com/api.php/provide/vod/at/xml","datatype":"xml","search":true},
-    {"title":"开云资源","api":"https://kaiyunzy4.com/inc/api.php","datatype":"xml","search":false},
-    {"title":"好片资源","api":"https://haopianapi.com/api.php/provide/vod/at/xml","datatype":"xml","search":true},
-    {"title":"极致资源","api":"https://jizhiapi.com/api.php/provide/vod/at/xml","datatype":"xml","search":true},
-    {"title":"色鸭资源","api":"https://api.seyacdn.com/api.php/provide/vod/at/xml","datatype":"xml","search":true},
-    {"title":"伊人资源","api":"https://api.yirenziyuan.com/api.php/provide/vod/at/xml/","datatype":"xml","search":true},
+    {"title":"字幕网资源站","api":"http://zmcjz.com/api","datatype":"xml","search":true},
+    {"title":"乐播资源","api":"https://lbapi9.com/api.php/provide/vod/at/xml/","datatype":"xml","search":true},
+    {"title":"JKUN资源","api":"https://jkunzyapi.com/api.php/seaxml/vod/at/xml","datatype":"xml","search":true},
+    {"title":"黄AV资源","api":"https://www.pgxdy.com/api/xml.php","datatype":"xml","search":false},
+    {"title":"奶香香资源","api":"https://naixxzy.com/api.php/provide/vod/at/xml/","datatype":"xml","search":true},
+    {"title":"萝莉资源","api":"https://api.avjx03.com/api.php/provide/vod/at/xml","datatype":"xml","search":true},
+    {"title":"奥斯卡资源资源","api":"https://aosikazy.com/api.php/provide/vod/at/xml","datatype":"xml","search":true},
+    {"title":"真不卡资源","api":"http://149.100.159.150/api.php/provide/vod/at/xml","datatype":"xml","search":true},
     {"title":"滴滴资源","api":"https://didizy.com/api.php/provide/vod/at/xml","datatype":"xml","search":true},
-    {"title":"玉兔资源","api":"https://yutuzy7.com/api.php/provide/vod/at/xml/","datatype":"xml","search":true},
-    {"title":"18资源[官方]","api":"https://18.cxr.cool/api.php/provide/vod/at/xml","datatype":"xml","search":true},
-    {"title":"老色逼资源","api":"https://laosebizy6.com/api.php/provide/vod/at/xml","datatype":"xml","search":false}
+    {"title":"淫水机资源","api":"https://www.xrbsp.com/api/xml.php","datatype":"xml","search":true},
+    {"title":"美少女资源","api":"https://www.msnii.com/api/xml.php","datatype":"xml","search":true},
+    {"title":"老色逼资源","api":"https://laosebizy3.com/api.php/provide/vod/at/xml","datatype":"xml","search":false}
 ]
